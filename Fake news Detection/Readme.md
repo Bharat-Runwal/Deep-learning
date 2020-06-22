@@ -5,3 +5,4 @@
 - Simple prprocessing is done like padding,scrapping html and unrelevent text.
 - Used Glove(100d) Vector representation of words for better results.
 - Got 99.87% accuracy on training set and 99.92 on test set.
+- Further improvement on model complexity can be done.
