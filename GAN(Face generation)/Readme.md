@@ -1,6 +1,6 @@
 # Face Generation using GAN 
 
--We use two Networks here one is Generator which takes random noize for inspiration and tries to 
+- We use two Networks here one is Generator which takes random noize for inspiration and tries to 
 generate a face sample , Second is Discriminator which takes a face sample and tries to tell if it's real or fake.
 i.e it predicts the probability of input image being a real face.
 ## Training :
